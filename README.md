@@ -27,7 +27,8 @@ A minimal legal assistant frontend interface inspired by Lexi, built using **Rea
 
 > _Include a screenshot here after running the app and taking one._
 
-![Screenshot](./screenshot.png)
+![App Screenshot](public/screenshot.png)
+
 
 ---
 
